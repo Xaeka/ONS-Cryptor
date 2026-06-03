@@ -45,6 +45,12 @@
 4. 🔒加密：点击【🔒加密文件】→选中修改完毕的**GB2312编码TXT** → 弹窗选择对应加密格式 → 加密成品存入`encrypted`
 > 快捷技巧：顶部菜单栏随时一键打开解密/加密文件夹，省去手动查找目录
 
+### 界面简单预览
+
+<div align="center">
+<img src="https://i.postimg.cc/15yQ0Jky/ONS-Cryptor-Index-Page.png" width="520"/>
+</div>
+
 ### 方式②：本地源码直接运行
 ```bash
 # 前置：本地安装Python3.x环境
